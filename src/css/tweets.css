@@ -1,0 +1,15 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.img {
+  border-radius: 50%;
+}
+.grey {
+  background-color: rgb(247, 247, 247);
+}
+*:focus {
+  outline: none;
+}
